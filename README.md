@@ -21,7 +21,7 @@ The dashboard is designed to display and analyze data in a visually appealing an
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/dashboard.git`
+1. Clone the repository: `git clone https://github.com/arya-vinayak/DashBoarding-For-Data-Analytics.git`
 2. Install dependencies: `npm install`
 3. Start the development server: `npm start`
 
